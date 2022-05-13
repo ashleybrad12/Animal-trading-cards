@@ -1,0 +1,53 @@
+html{
+text-align:left;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+.foxpicture { 
+    width:300px;
+    height:200px;
+    display:block;
+    border: 1pt gray solid;
+    margin: 10px;
+    }
+
+
+    ul{
+   list-style:none;
+   display: inline-block;
+    }
+   
+
+    #card {
+
+background:linear-gradient(45deg, rgb(189, 139, 40),lightblue);
+border: 1pt gray solid;
+margin-left: 10px;
+margin-right:10px;
+padding-bottom:10px;
+width:320px;
+box-shadow:10px 10px 10px lightslategray ;
+   }
+
+   #info{
+    border: 1pt gray solid;
+    margin:10px;
+   padding:10px 0 10px 0 ;
+
+   }
+
+   #fact{
+   font-style:italic;
+  text-align: left;
+   }
+
+   span{
+       font-weight:bold ;
+   }
+   
+   p{
+      margin:5px ;
+      padding-left: 10px;
+      padding-right:10px ;
+   }
